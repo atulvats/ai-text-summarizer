@@ -92,3 +92,5 @@ Did not implement advanced logging or testing due to time constraints.
 ## Screenshot:
 ![Output](./Output_Image.png)
 
+##Deployed Link:
+https://huggingface.co/spaces/atulvatsvatsal/ai-text-summarizer
